@@ -1,7 +1,8 @@
 header  {
     background-color: #00f;
 color: deeppink;
-}
+display: flex;
+justify-content: space-around;
 
 .cabeçalho.imagem
-widh:20%
+widh: 20%;
